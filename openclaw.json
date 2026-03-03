@@ -1,5 +1,5 @@
-
-  {"gateway": {
+  {
+    "gateway": {
       "controlUi": {
         "dangerouslyAllowHostHeaderOriginFallback": true
       }
